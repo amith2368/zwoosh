@@ -23,7 +23,7 @@ The Zwift Click V2 consists of two BLE devices (left and right hood), each with 
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zwoosh.git
+git clone https://github.com/amith2368/zwoosh.git
 cd zwoosh
 pip install -r requirements.txt
 ```
