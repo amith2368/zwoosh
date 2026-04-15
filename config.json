@@ -1,7 +1,7 @@
 {
     "device_name": "Zwift Click",
-    "shift_up_key": "=",
-    "shift_down_key": "-",
+    "shift_up_key": "k",
+    "shift_down_key": "i",
     "scan_timeout": 15,
     "reconnect_delay": 3,
     "auto_reconnect": true
